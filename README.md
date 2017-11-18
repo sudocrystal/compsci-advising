@@ -5,8 +5,13 @@ What types of careers are there in Computer Science?
 
 * Department of Labor: Information about different careers, including: Typical Pay, Job Market Outlook, What they do, and more.
   - [Software Developers](https://www.bls.gov/ooh/computer-and-information-technology/software-developers.htm)
+  - [Computer Programmer](https://www.bls.gov/ooh/computer-and-information-technology/computer-programmers.htm)
+  - [Computer and Information Research Scientist](https://www.bls.gov/ooh/computer-and-information-technology/computer-and-information-research-scientists.htm)
+  - [Information Security Analyst](https://www.bls.gov/ooh/computer-and-information-technology/information-security-analysts.htm)
+  - [Web Developer](https://www.bls.gov/ooh/computer-and-information-technology/web-developers.htm)
   - [Computer and Information Systems Managers](https://www.bls.gov/ooh/management/computer-and-information-systems-managers.htm)
   - [Computer Network Architects](https://www.bls.gov/ooh/computer-and-information-technology/computer-network-architects.htm)
+  - [Computer Hardware Engineer](https://www.bls.gov/ooh/architecture-and-engineering/computer-hardware-engineers.htm)
 
 ## Computing Majors & Specializations
 What different majors are there?
