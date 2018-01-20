@@ -2,6 +2,12 @@
 
 # Computer Science Advising Resources
 
+Table of contents
+* [Computing Careers](#computing-careers)
+* [Computing Majors & Specializations](#computing-majors-specializations)
+* [Software Engineering Roles](#software-engineering-roles)
+* [Transfer Information](#transfer-information)
+
 ## Computing Careers
 What types of careers are there in Computer Science?
 
